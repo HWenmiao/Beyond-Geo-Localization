@@ -23,20 +23,20 @@ The **code of BGL** can be requsted for non-profit academic research.
 Please cite this dataset using the following ``bibtex`` reference:
 
 ```bibtex
-@inproceedings{10.1145/3581783.3612007,
-author = {Hu, Wenmiao and Zhang, Yichen and Liang, Yuxuan and Han, Xianjing and Yin, Yifang and Kruppa, Hannes and Ng, See-Kiong and Zimmermann, Roger},
-title = {PetalView: Fine-grained Location and Orientation Extraction of Street-view Images via Cross-view Local Search},
-year = {2023},
-isbn = {9798400701085},
+@inproceedings{10.1145/3503161.3548102,
+author = {Hu, Wenmiao and Zhang, Yichen and Liang, Yuxuan and Yin, Yifang and Georgescu, Andrei and Tran, An and Kruppa, Hannes and Ng, See-Kiong and Zimmermann, Roger},
+title = {Beyond Geo-localization: Fine-grained Orientation of Street-view Images by Cross-view Matching with Satellite Imagery},
+year = {2022},
+isbn = {9781450392037},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3581783.3612007},
-doi = {10.1145/3581783.3612007},
-booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
-pages = {56–66},
-numpages = {11},
-location = {<conf-loc>, <city>Ottawa ON</city>, <country>Canada</country>, </conf-loc>},
-series = {MM '23}
+url = {https://doi.org/10.1145/3503161.3548102},
+doi = {10.1145/3503161.3548102},
+booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+pages = {6155–6164},
+numpages = {10},
+location = {<conf-loc>, <city>Lisboa</city>, <country>Portugal</country>, </conf-loc>},
+series = {MM '22}
 }
 ```
 
